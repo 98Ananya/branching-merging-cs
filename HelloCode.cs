@@ -2,7 +2,7 @@
 
 namespace CSharpSolutions
 {
-    class HiCode
+    class HelloCode
     {
          static void Main(string[] args)
         {
